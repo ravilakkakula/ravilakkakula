@@ -1,5 +1,5 @@
 # 💫 About Me:
-📓 I'm currently completing my Masters in Business Analytics at University of Michigan<br>🔭 I’m currently working on Snowflake projects.<br>🌱 I’m currently learning Data Engineering.<br>🤔 I’m looking for help with data analytics/engineering roles.<br>💬 Ask me about tax compliance.<br>📫 How to reach me: ravitejalakk@gmail.com.
+📓 I'm currently completing my Masters in Business Analytics at University of Michigan<br>🔭 I’m currently working on Snowflake projects.<br>🌱 I’m currently learning Data Engineering.<br>🤔 I’m looking for help with data analytics/engineering roles.<br>💬 Ask me about famous kathrughose.<br>📫 How to reach me: ravitejalakk@gmail.com.
 
 
 ## 🌐 Socials:
